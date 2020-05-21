@@ -59,5 +59,5 @@ dependencies {
     compile("io.qameta.allure:allure-java-commons:2.12.1")
 
     testCompile("org.testng:testng:6.14.3")
-    testCompile("io.qameta.allure:allure-ee-testng:3.18.0")
+    testCompile("io.qameta.allure:allure-ee-testng:3.28.3")
 }
